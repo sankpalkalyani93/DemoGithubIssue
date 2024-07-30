@@ -1,0 +1,3 @@
+print('Hello World') # print() : function to display message content  to user
+print("Addition is : ", (100 + 200))
+print("Comaparison result : ", (200 >= 200))
